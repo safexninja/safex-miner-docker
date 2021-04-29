@@ -1,8 +1,14 @@
 # safex-miner-docker
 Running xmrig in docker, mining safex cash on default pool
 
-Docker: <a href="https://hub.docker.com/r/safexninja/safex-miner">hub.docker.com/r/safexninja/safex-miner</a><br>
-This will run Xmrig to mine Safex Cash, with the default pool being <a href="https://pool.safex.org/">pool.safex.org</a>
+Docker: <a href="https://hub.docker.com/r/safexninja/safex-miner" target="_blank">hub.docker.com/r/safexninja/safex-miner</a><br>
+This will run Xmrig to mine Safex Cash, with the default pool being <a href="https://pool.safex.org/" target="_blank">pool.safex.org</a>
+After starting the miner, visit the pool<a href="https://pool.safex.org/#worker_stats" target="_blank"> and look up your address</a> to see how it goes<br>
+<br>
+For more info see: <br>
+<a href="https://xmrig.com" targe="_blank">https://xmrig.com</a> <br>
+<a href="https://github.com/xmrig" targe="_blank">https://github.com/xmrig</a> <br><br>
+
 
 <b>Be aware</b>: Mining from a container is not the most optimal way for mining. When you have a bit of experience you should look into running mining software directly from your physical hardware, but using this image is very easy and will give you some hashes.
 
