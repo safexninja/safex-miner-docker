@@ -1,5 +1,5 @@
 # safex-miner-docker
-Running xmrig in docker, mining safex cash on default pool
+Running xmrig in docker, mining Safex Cash on default pool
 
 Docker: <a href="https://hub.docker.com/r/safexninja/safex-miner" target="_blank">hub.docker.com/r/safexninja/safex-miner</a><br>
 This will run Xmrig to mine Safex Cash, with the default pool being <a href="https://pool.safex.org/" target="_blank">pool.safex.org</a>
