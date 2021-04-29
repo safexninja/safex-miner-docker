@@ -33,7 +33,7 @@ For more info see: <br>
 
 <br><h2>Setting alternate workname and cpu load</h2>
 <code>$ sudo docker run -i -e ADDRESS={your address here}  MAXCPULOAD=50 WORKER=smurf safexninja/safex-miner</code>
-
+<br>
 <h1>Exit</h1>
 To exit the node type <code>Control + C</code>. The container will be exited<br>
 <br>
