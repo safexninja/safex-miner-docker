@@ -20,9 +20,9 @@ For more info see: <br>
 <br>
 <h1>Variables</h1>
 <ul>
-  <li>ADDRESS: set your mining address, never forget this</li>
-  <li>WORKER: the name of the worker to shown in the pool's dashboard, optional (default is "safex-miner")</li>
-  <li>MAXCPULOAD: the max cpu load in percentage used for configating the threads, optional (default is "100")</li>
+  <li><i>ADDRESS</i>: set your mining address, never forget this</li>
+  <li><i>WORKER</i>: the name of the worker to shown in the pool's dashboard, optional (default is "safex-miner")</li>
+  <li><i>MAXCPULOAD</i>: the max cpu load in percentage used for configating the threads, optional (default is "100")</li>
   </ul>
 <br>
 
