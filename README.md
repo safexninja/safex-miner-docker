@@ -35,7 +35,7 @@ For more info see: <br>
 <code>$ sudo docker run -i -e ADDRESS=<b>Safex5z45o...<b> -e MAXCPULOAD=50 -e WORKER=smurf safexninja/safex-miner</code>
 <br><br>
 <h1>Exit</h1>
-To exit the node type <code>Control + C</code>. The container will be exited<br>
+To exit the miner type <code>Control + C</code>. The container will be exited<br>
 <br>
 <h1>Installing Docker & Runing the node</h1>
 Installing Docker on Ubuntu and run the latest node.<br>
