@@ -37,8 +37,8 @@ For more info see: <br>
 <h1>Exit</h1>
 To exit the miner type <code>Control + C</code>. The container will be exited<br>
 <br>
-<h1>Installing Docker & Runing the node</h1>
-Installing Docker on Ubuntu and run the latest node.<br>
+<h1>Installing Docker & Runing the miner</h1>
+Installing Docker on Ubuntu and run the latest miner.<br>
 If you have not installed docker yet, follow these steps:<br><br>
 
 <code>$ sudo apt update</code><br>
