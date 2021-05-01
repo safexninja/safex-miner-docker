@@ -22,7 +22,7 @@ For more info see: <br>
 <ul>
   <li><i>ADDRESS</i>: <b>set your mining address, never forget this</b></li>
   <li><i>WORKER</i>: the name of the worker to shown in the pool's dashboard, optional (default is "safex-miner")</li>
-  <li><i>MAXCPULOAD</i>: the max cpu load in percentage used for configating the threads, optional (default is "100")</li>
+  <li><i>MAXCPULOAD</i>: the max cpu load in percentage used for auto configurating the threads, optional (default is "100")</li>
   </ul>
 <br>
 
