@@ -28,6 +28,8 @@ For more info see: <br>
 
 <h1>Start mining</h1>
 <br>
+Note: for Windows remove "sudo" from the command
+<br>
 <h2>Setting address only</h2><br>
 <code>$ sudo docker run -i -e ADDRESS=<b>Safex5z45o...<b>  safexninja/safex-miner</code>
 
