@@ -2,8 +2,8 @@
 Running xmrig in docker, mining Safex Cash on default pool
 
 Docker: <a href="https://hub.docker.com/r/safexninja/safex-miner" target="_blank">hub.docker.com/r/safexninja/safex-miner</a><br>
-This will run Xmrig to mine Safex Cash, with the default pool being <a href="https://pool.safex.org/" target="_blank">pool.safex.org</a>
-After starting the miner, visit the pool<a href="https://pool.safex.org/#worker_stats" target="_blank"> and look up your address</a> to see how it goes<br>
+This will run Xmrig to mine Safex Cash, with the default pool being <a href="https://pool.safex.org/" target="_blank">pool.safex.org</a>.
+After starting the miner, visit the pool<a href="https://pool.safex.org/#worker_stats" target="_blank"> and look up your address</a> to see how it goes. It might take a few minutes for you worker to show up.<br>
 <br>
 For more info see: <br>
 <a href="https://xmrig.com" targe="_blank">https://xmrig.com</a> <br>
